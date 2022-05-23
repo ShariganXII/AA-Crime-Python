@@ -1,0 +1,134 @@
+Number,Precinct,Gender,Race,Age,Bias-Motivation
+1,1,Female,White,64,Anti-Islamic (Muslim)
+2,5,Female,White,49,Anti-Hispanic
+3,,Male,White,44,Anti-Islamic (Muslim)
+4,,Male,Black,41,Anti-White
+5,6,Male,Black,21,Anti-Jewish
+6,,Male,Black,33,Anti-White
+7,,Male,Black,33,Anti-White
+8,9,Male,Black,51,Anti-Jewish
+9,,Male,White,37,Anti-male homosexual (Gay)
+10,,Male,White,38,Anti-male homosexual (Gay)
+11,10,Male,White,52,Anti-Black
+12,,Male,Black,33,Anti-White
+13,13,Male,White,35,Anti-Jewish
+14,,Male,Black,33,Anti-White
+15,,Male,Black,33,Anti-White
+16,14,Male,White,27,Anti-Jewish
+17,17,Male,White,73,Anti-multi racial groups
+18,,Male,White,28,Anti-Jewish
+19,18,Male,White,23,Anti-Black
+20,,Male,White,25,Anti-Black
+21,,Male,White,28,Anti-Jewish
+22,,Male,White,21,Anti-male homosexual (Gay)
+23,,Male,White,24,Anti-male homosexual (Gay)
+24,,Male,Black,24,Anti-White
+25,25,Male,Black,19,Anti-Jewish
+26,,Male,Black,21,Anti-Jewish
+27,,Male,Black,28,Anti-Jewish
+28,,Male,White,43,Anti-Jewish
+29,,Male,White,44,Anti-Jewish
+30,28,Male,White,44,Anti-Jewish
+31,,Male,Black,37,Anti-White
+32,30,Male,Black,38,Anti-male homosexual (Gay)
+33,32,Male,Black,20,Anti-LGBT (mixed group)
+34,,Male,Black,20,Anti-LGBT (mixed group)
+35,33,Female,White,22,Anti-Hispanic
+36,,Male,White,38,Anti-male homosexual (Gay)
+37,34,Male,White,35,Anti-other religion
+38,40,Male,Black,23,Anti-White
+39,42,Female,White,14,Anti-Islamic (Muslim)
+40,,Female,White,14,Anti-Islamic (Muslim)
+41,,Female,White,15,Anti-Islamic (Muslim)
+42,43,Male,Black,14,Anti-Islamic (Muslim)
+43,,Male,White,12,Anti-Islamic (Muslim)
+44,47,Male,Black,35,Anti-transgender
+45,48,Male,Black,37,Anti-White
+46,,Male,Black,37,Anti-White
+47,,Male,Black,37,Anti-White
+48,49,Female,Black,25,Anti-Hispanic
+49,60,Male,White,18,Anti-Jewish
+50,61,Male,White,34,Anti-Asian
+51,,Male,White,34,Anti-Asian
+52,,Male,White,34,Anti-Asian
+53,,Male,White,55,Anti-Islamic (Muslim)
+54,,Male,White,55,Anti-Islamic (Muslim)
+55,,Female,Black,42,Anti-Jewish
+56,62,Female,White,53,Anti-Islamic (Muslim)
+57,63,Female,White,48,Anti-Islamic (Muslim)
+58,66,Male,Black,16,Anti-Jewish
+59,,Male,Asian,17,Anti-Jewish
+60,,Male,Asian,18,Anti-Jewish
+61,,Male,Asian,18,Anti-Jewish
+62,,Male,Black,18,Anti-Jewish
+63,,Male,Black,19,Anti-Jewish
+64,67,Male,White,54,Anti-Hispanic
+65,,Male,Black,55,Anti-male homosexual (Gay)
+66,68,Male,White,21,Anti-male homosexual (Gay)
+67,70,Male,White,33,Anti-Black
+68,,Male,White,34,Anti-Islamic (Muslim)
+69,,Male,Black,24,Anti-White
+70,71,Female,Black,52,Anti-transgender
+71,,Female,Black,30,Anti-Jewish
+72,,Female,Black,30,Anti-Jewish
+73,,Female,Black,30,Anti-Jewish
+74,,Male,Black,18,Anti-Jewish
+75,,Male,Black,20,Anti-Jewish
+76,,Male,Black,21,Anti-Jewish
+77,,Male,Black,38,Anti-Jewish
+78,,Male,Black,39,Anti-Jewish
+79,,Male,Black,41,Anti-Jewish
+80,75,Male,White,46,Anti-Black
+81,,Male,White,46,Anti-Black
+82,,Male,White,58,Anti-Black
+83,,Male,Black,40,Anti-male homosexual (Gay)
+84,,Male,White,28,Anti-male homosexual (Gay)
+85,,Male,White,37,Anti-female homosexual (Lesbian)
+86,76,Male,Asian,21,Anti-male homosexual (Gay)
+87,,Male,Black,33,Anti-male homosexual (Gay)
+88,,Male,Black,33,Anti-male homosexual (Gay)
+89,77,Male,Black,26,Anti-Jewish
+90,79,Male,Asian,16,Anti-male homosexual (Gay)
+91,,Male,Black,16,Anti-male homosexual (Gay)
+92,,Male,Black,41,Anti-male homosexual (Gay)
+93,81,Male,Black,32,Anti-transgender
+94,,Male,Black,26,Anti-Jewish
+95,,Female,Black,23,Anti-male homosexual (Gay)
+96,,Male,Black,28,Anti-male homosexual (Gay)
+97,84,Male,White,61,Anti-Black
+98,,Male,Unknown,16,Anti-transgender
+99,,Male,White,48,Anti-Islamic (Muslim)
+100,88,Male,White,47,Anti-Jewish
+101,,Male,Black,46,Anti-male homosexual (Gay)
+102,90,Male,White,36,Anti-Arab
+103,,Male,Black,16,Anti-Jewish
+104,94,Male,White,34,Anti-other religion
+105,,Male,White,28,Anti-Jewish
+106,,Male,White,28,Anti-Jewish
+107,,Male,White,28,Anti-Jewish
+108,,Male,White,28,Anti-Jewish
+109,,Male,White,28,Anti-Jewish
+110,,Male,White,28,Anti-Jewish
+111,,Male,White,28,Anti-Jewish
+112,,Male,White,28,Anti-Jewish
+113,101,Male,Black,48,Anti-transgender
+114,,Male,Black,14,Anti-Jewish
+115,,Male,Black,16,Anti-Jewish
+116,102,Male,Asian,37,Anti-Islamic (Muslim)
+117,103,Male,White,55,Anti-Islamic (Muslim)
+118,106,Female,Black,14,Anti-Islamic (Muslim)
+119,,Female,Black,14,Anti-Islamic (Muslim)
+120,107,Female,Asian,23,Anti-male homosexual (Gay)
+121,,Male,Asian,21,Anti-male homosexual (Gay)
+122,110,Female,White,24,Anti-transgender
+123,,Male,Black,34,Anti-transgender
+124,,Male,Black,34,Anti-transgender
+125,,Male,Black,23,Anti-male homosexual (Gay)
+126,112,Female,White,54,Anti-transgender
+127,,Male,Asian,13,Anti-Jewish
+128,,Male,Asian,16,Anti-Jewish
+129,,Male,White,12,Anti-Jewish
+130,113,Male,Asian,61,Anti-Black
+131,114,Male,Asian,24,Anti-Jewish
+132,115,Male,White,28,Anti-male homosexual (Gay)
+133,,Male,White,28,Anti-male homosexual (Gay)

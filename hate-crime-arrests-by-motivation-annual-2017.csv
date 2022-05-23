@@ -1,0 +1,136 @@
+Precinct,Number,Gender,Race, Age,Bias Motivation
+1,1,Male,White,40,Anit-Other Religion
+,2,Male,Black,29,Anti-White
+6,3,Male,White,48,Anti-Asian
+,4,Male,White,32,Anti-LGBT
+,5,Male,White,59,Anti-Black
+7,6,Male,Black,25,Anti-Islamic (Muslim)
+,7,Male,White,23,Anti-Black
+,8,Male,White,29,Anti-White
+,9,Male,White,21,Anti-Black
+,10,Male,White,23,Anti-Black
+9,11,Male,Black,26,Anti-LGBT
+,12,Male,Asian,20,Anti-LGBT
+,13,Male,White,18,Anti-LGBT
+13,14,Male,White,28,Undetermind
+,15,Male,Black,32,Anti-Jewish
+,16,Male,Black,24,Anti-Gender Non-Conforming
+14,17,Male,Black,50,Anti-LGBT
+,18,Male,Black,18,Anti-White
+,19,Male,White,26,Anti-LGBT
+,20,Male,White,28,Anti-Black
+,21,Female,White,21,Anti-Islamic (Muslim)
+,22,Male,White,64,Anti-Jewish
+17,23,Female,Black,54,Anti-White
+,24,Male,Black,32,Anti-Jewish
+,25,Male,White,48,Anti-Islamic (Muslim)
+18,26,Male,White,23,Anti-Black
+,27,Male,Black,30,Anit-Other Religion
+19,28,Male,White,53,Anti-Other Ethnicity
+,29,Male,Black,38,Anti-Islamic (Muslim)
+20,30,Male,White,22,Anti-White
+22,31,Male,White,33,Anti-Black
+23,32,Male,Black,12,Anti-Jewish
+,33,Male,Black,12,Anti-Jewish
+,34,Male,Black,30,Anti-LGBT
+,35,Male,White,12,Anti-Jewish
+24,36,Male,Black,25,Anti-Islamic (Muslim)
+26,37,Male,Black,14,Anti-LGBT
+,38,Male,Black,13,Anti-LGBT
+28,39,Male,White,39,Anti-Jewish
+,40,Female,Black,38,Anti-Jewish
+30,41,Male,Black,57,Anti-LGBT
+34,42,Male,Black,14,Anti-LGBT
+41,43,Male,White,13,Anti-Islamic (Muslim)
+42,44,Male,Black,22,Anti-LGBT
+44,45,Male,Black,16,Anti-White
+,46,Male,Black,16,Anti-White
+,47,Male,Black,61,Anti-Jewish
+46,48,Male,Black,14,Anti-LGBT
+48,49,Male,Black,24,Anti-LGBT
+49,50,Male,Black,31,Anti-Islamic (Muslim)
+50,51,Male,Black,16,Anti-Jewish
+52,52,Male,White,41,Anti-Jewish
+,53,Male,Black,40,Anti-LGBT
+60,54,Male,Black,37,Anti-LGBT
+,55,Male,Black,32,Anti-LGBT
+61,56,Male,White,25,Anti-Black
+,57,Male,Black,16,Anti-Other Ethnicity
+,58,Male,White,36,Anti-Islamic (Muslim)
+,59,Male,White,50,Anti-Black
+,60,Male,White,25,Anti-Black
+,61,Male,Black,12,Anti-Asian
+,62,Male,White,40,Anti-Islamic (Muslim)
+,63,Male,White,27,Anti-Black
+62,64,Male,White,28,Anti-Other Ethnicity
+63,65,Male,White,45,Anti-Jewish
+66,66,Male,White,27,Anti-Islamic (Muslim)
+,67,Male,Asian,37,Anti-Islamic (Muslim)
+70,68,Male,Black,28,Anti-Jewish
+,69,Male,White,37,Anti-Islamic (Muslim)
+,70,Male,Black,27,Anti-Jewish
+,71,Male,White,37,Anti-Islamic (Muslim)
+,72,Male,White,38,Anti-Islamic (Muslim)
+,73,Male,Black,19,Anti-Islamic (Muslim)
+71,74,Male,Unknown,18,Anti-Jewish
+,75,Male,Black,37,Anti-Jewish
+,76,Male,Black,11,Anti-Jewish
+,77,Male,Black,30,Anti-Jewish
+,78,Male,Black,38,Anti-LGBT
+,79,Female,White,26,Anti-Jewish
+72,80,Male,Asian,37,Anti-Islamic (Muslim)
+75,81,Male,Black,26,Anti-LGBT
+,82,Male,White,17,Anti-Islamic (Muslim)
+,83,Male,White,28,Anit-Other Religion
+,84,Male,Black,28,Anti-Hispanic
+77,85,Male,Black,56,Anit-Other Religion
+79,86,Male,Black,72,Anti-LGBT
+,87,Male,Black,18,Anti-Jewish
+,88,Male,Black,32,Anti-LGBT
+,89,Male,Asian,79,Anti-Jewish
+81,90,Female,Black,37,Anti-LGBT
+,91,Male,Black,39,Anti-Gender Non-Conforming
+,92,Female,Black,37,Anti-LGBT
+83,93,Male,Black,41,Anti-LGBT
+,94,Male,White,37,Anti-Black
+,95,Male,White,16,Anti-Islamic (Muslim)
+,96,Female,White,36,Anti-LGBT
+84,97,Male,Black,27,Anti-LGBT
+,98,Male,White,36,Anti-Black
+,99,Male,Black,28,Anti-LGBT
+88,100,Male,Black,60,Anti-LGBT
+90,101,Female,White,20,Anti-Jewish
+,102,Male,White,13,Anti-LGBT
+,103,Male,White,15,Anti-LGBT
+,104,Female,Black,36,Anti-LGBT
+94,105,Male,White,32,Anti-LGBT
+102,106,Male,Black,34,Anti-White
+103,107,Male,White,50,Anti-LGBT
+,108,Male,Black,35,Anti-LGBT
+104,109,Male,White,22,Anit-Other Religion
+,110,Male,White,21,Anit-Other Religion
+,111,Male,White,21,Anit-Other Religion
+107,112,Male,Asian,21,Anti-Other Ethnicity
+,113,Male,Black,28,Anti-Asian
+108,114,Male,White,52,Anti-Black
+109,115,Male,Asian,15,Anti-Islamic (Muslim)
+110,116,Male,White,29,Anti-60 Years old or more
+,117,Male,White,23,Anit-Other Religion
+,118,Female,White,28,Anti-60 Years old or more
+112,119,Male,White,40,Anti-Islamic (Muslim)
+,120,Male,Black,39,Anti-Other Ethnicity
+113,121,Male,Black,15,Anti-Islamic (Muslim)
+,122,Male,White,57,Anti-Islamic (Muslim)
+114,123,Male,White,53,Anti-LGBT
+115,124,Male,White,50,Anti-Other Ethnicity
+,125,Male,White,38,Anti-LGBT
+,126,Male,Asian,48,Anti-LGBT
+120,127,Female,White,38,Anti-Black
+,128,Male,Black,18,Anti-Hispanic
+,129,Female,White,44,Anti-Black
+,130,Male,Black,24,Anti-LGBT
+,131,Female,White,38,Anti-LGBT
+,132,Male,Black,20,Anti-LGBT
+121,133,Male,White,57,Anti-Hispanic
+122,134,Female,White,44,Anti-Black
+123,135,Male,White,37,Anti-Jewish
